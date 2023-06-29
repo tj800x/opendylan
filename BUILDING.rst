@@ -6,7 +6,7 @@ This document describes how to build the Open Dylan compiler and IDE.
 
 Clone the git repository::
 
-  git clone --recursive git://github.com/dylan-lang/opendylan.git
+  git clone --recursive https://github.com/dylan-lang/opendylan.git
 
 .. note:: It does not work to download a ZIP file of the repository from github
    because it doesn't include git submodules.
